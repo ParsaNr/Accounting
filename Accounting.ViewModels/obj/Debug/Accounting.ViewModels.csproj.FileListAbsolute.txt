@@ -1,0 +1,36 @@
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_12\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_14\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+E:\New folder\toplearn\advanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+E:\New folder\toplearn\advanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+E:\New folder\toplearn\advanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+E:\New folder\toplearn\advanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+E:\New folder\toplearn\advanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+E:\New folder\toplearn\advanced\TopLearn.Com_CsharpAdvanced_17\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+E:\Coding\C#\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+E:\Coding\C#\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+E:\Coding\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+E:\Coding\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+E:\Coding\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+E:\Coding\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
